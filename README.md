@@ -1,7 +1,7 @@
 # Web Scraping Project
 
 ## Project Overview
-This project involves **web scraping** to extract cricketer data and manage the scraped files by **automatically sorting** them based on their types (extensions) using Python.
+This project involves **web scraping** to extract cricketer data and load them in an excel file using Python,Pandas,BeautifulSoup .
 
 The web scraping script retrieves data about cricketers from an online source, but due to limitations with **BeautifulSoup** (which only extracts visible content before loading the entire page), not all players could be retrieved. The project aims to organize the resulting data files in a manner that makes it easier for users to access and analyze.
 
