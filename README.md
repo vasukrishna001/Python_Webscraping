@@ -1,4 +1,4 @@
-# Web Scraping Project - Auto Sorting Files and Challenges
+# Web Scraping Project
 
 ## Project Overview
 This project involves **web scraping** to extract cricketer data and manage the scraped files by **automatically sorting** them based on their types (extensions) using Python. Additionally, the project includes the functionality to **undo** the sorting operation and restore the original structure. 
